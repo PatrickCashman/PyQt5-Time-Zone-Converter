@@ -7,6 +7,6 @@ Use the dropdown menu to select the desired timezone. The clock will update to s
 
 The application requires PyQt5 and tzlocal to be installed.
 
-Install the required dependencies:
+Install the required dependencies using:
 pip install PyQt5 pytz tzlocal
 
