@@ -5,7 +5,7 @@ This application displays a clock that updates every second, showing the current
 
 Use the dropdown menu to select the desired timezone. The clock will update to show the current time in the selected timezone.
 
-The application requires PyQt5 and tzlocal to be installed.
+The application requires PyQt5, pytz, and tzlocal to be installed.
 
 Install the required dependencies using:
 pip install PyQt5 pytz tzlocal
